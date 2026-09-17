@@ -166,11 +166,7 @@ Laptop_Price_Prediction/
 
 ---
 
-## 📞 Contact & Support
 
-- **Developer:** Uttam Mahato
-- **GitHub Profile:** [vk18chiku](https://github.com/vk18chiku)
-- **Bug Reports:** [Open an Issue](https://github.com/vk18chiku/Laptop_Price_Prediction/issues)
 
 ---
 
