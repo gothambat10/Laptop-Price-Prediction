@@ -175,6 +175,3 @@ This project is licensed under the MIT License.
 
 ---
 
-**Made with ❤️ by Uttam Mahato**
-
-⭐ *If you find this project useful, don't forget to give it a star on GitHub!*
