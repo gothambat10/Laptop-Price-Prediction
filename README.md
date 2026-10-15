@@ -13,7 +13,7 @@ A cutting-edge, AI-powered machine learning application that predicts laptop pri
 ## 🌐 Live Demo
 
 Try out the application live on Hugging Face Spaces:
-🔗 **[Laptop Price Predictor - Hugging Face Space](https://laptop-price-prediction-xgb.streamlit.app/)**
+🔗 **[Laptop Price Predictor - Streamlit.io ](https://laptop-price-prediction-xgb.streamlit.app/)**
 
 *(Note: The model might take a few seconds to load upon first visit.)*
 
